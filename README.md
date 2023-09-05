@@ -10,6 +10,10 @@ This simple web app allows you to display and manipulate a number in the center 
 - Reset the number to 0 by clicking the "Reset" button.
 - The number changes color based on its value: green for positive, red for negative, and black for zero.
 
+## Demo
+
+[View Demo](https://maju2023.github.io/Number-Color-Changer)
+
 ## Screenshots
 
 ![Positive Number](images/screenshot1.jpg)
